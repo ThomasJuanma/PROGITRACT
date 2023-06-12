@@ -1,0 +1,9 @@
+usuari= input ("usuario>")
+password = input ("contrasenya")
+if usuari = "Victor" or usuari = "Victor" and password= 
+"Victor777": 
+print ("Benvingut Victor")
+elif usuari = "Manolo" or usuari= "manolo" and password =Manolo777 : Print ("Benvingut Manolo")
+elif usuari = "Eusebio" or usuari = "eusebio" and password= "eusebio777" : print ("Benvingut Eusebio")
+else:
+print ("usuari o contrasenya errònia")
